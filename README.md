@@ -78,7 +78,6 @@ Run:
 👤 Автор / Author
 
 Проект выполнен в рамках учебного курса.
-Project developed as part of a university course.
 
 
 ---
